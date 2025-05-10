@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shukoor100
-- 👀 I’m interested in Developing Andriod Apps
-- 🌱 I’m currently learning Java, Pyhton, CSS
+- 👀 I’m interested in Embedded Software Development
+- 🌱 I’m currently working as a Embedded Developer
 - 💞️ I’m looking to collaborate on Technical Projects
 - 📫 How to reach me shukooraks03@gmail.com
 
